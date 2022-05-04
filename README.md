@@ -5,3 +5,4 @@
 - [FontAwesome Icons](https://fontawesome.com/icons?d=gallery&q=close&m=free)
 - [Mozilla - Calc Method](https://developer.mozilla.org/en-US/docs/Web/CSS/calc)
 - [Video DOM Reference](https://www.w3schools.com/tags/ref_av_dom.asp)
+- [w3schools - Fullscreen (Document)](https://www.w3schools.com/howto/howto_js_fullscreen.asp)
