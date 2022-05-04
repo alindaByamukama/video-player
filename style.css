@@ -178,7 +178,7 @@ video {
 
 
 select {
-
+  background: rgba(82, 81, 81, 0.9);
   color: var(--font-color);
   border: none;
   font-size: 18px;
@@ -190,7 +190,7 @@ select {
 
 
 select > option {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(100, 100, 100, 0.9);
   border: none;
   font-size: 14px;
 }
